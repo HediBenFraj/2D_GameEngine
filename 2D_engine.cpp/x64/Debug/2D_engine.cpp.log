@@ -1,0 +1,12 @@
+﻿  Game.cpp
+d:\dev\2d_engine.cpp\2d_engine.cpp\ecs.h(79): warning C4244: 'argument' : conversion de '_Ty' en 'float', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+  d:\dev\2d_engine.cpp\2d_engine.cpp\game.cpp(65): note: voir la référence à l'instanciation de la fonction modèle 'T &Entity::addComponent<TransformComponent,double,double,int,int,int>(double &&,double &&,int &&,int &&,int &&)' en cours de compilation
+          with
+          [
+              T=TransformComponent
+          ]
+  2D_engine.cpp.vcxproj -> D:\dev\2D_engine.cpp\x64\Debug\2D_engine.cpp.exe
